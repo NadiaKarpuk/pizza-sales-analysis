@@ -63,4 +63,4 @@ SQL, Tableau
 👉 [Pizza Place Sales на Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales/data)
 
 *🎤 Презентація
-👉 [Переглянути презентацію (PDF)](presentation/presentation.pdf)
+👉 [Переглянути презентацію (PDF)](https://github.com/NadiaKarpuk/pizza-sales-analysis/blob/main/presentation/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%20%D0%9A%D0%B0%D1%80%D0%BF%D1%83%D0%BA%20%D0%9D%D0%B0%D0%B4%D1%96%D1%8F.pdf)
