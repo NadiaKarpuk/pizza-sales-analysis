@@ -10,7 +10,9 @@
 * 📋 Таблиці: orders, order_detalis, pizzas, pizza_types
 * 📅 Період: 2015 рік
 * 🔢 Кількість рядків: 21 350 
-* 🔗 Документація:
+* 🔗 Документація: [![Переглянути таблицю csv]((https://github.com/NadiaKarpuk/pizza-sales-analysis/blob/main/exports/sales_lines.csv)
+)
+
  
 
 ## ❓ Ключові питання та відповіді
